@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
@@ -52,3 +53,7 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# Hotel_Website
+This website is created using WebDevelopment.
+>>>>>>> d328ab27c4c2ec3b8eea92ba142106ba573ee720
